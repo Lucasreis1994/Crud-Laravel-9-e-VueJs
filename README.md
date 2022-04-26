@@ -1,5 +1,7 @@
 # Crud-Laravel-9-e-VueJs
 
+- Importar o arquivo Insomnia.json para o Insomnia, e acredito que funcione no postman também, para simular as requisições para a apis
+
 docker run --rm \
     -u "$(id -u):$(id -g)" \
     -v "$(pwd):/var/www/html" \
